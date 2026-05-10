@@ -1,0 +1,6 @@
+bin/
+obj/
+obj_recovered/
+.vs/
+*.user
+*.suo

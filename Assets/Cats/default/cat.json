@@ -1,0 +1,20 @@
+{
+  "id": "default",
+  "name": "Default Kitty",
+  "defaultMode": "cartoon",
+  "scale": 1.0,
+  "modes": {
+    "photo": {
+      "displayName": "真猫图片模式",
+      "fallbackAnimation": "idle",
+      "animations": {
+      }
+    },
+    "cartoon": {
+      "displayName": "卡通图片模式",
+      "fallbackAnimation": "idle",
+      "animations": {
+      }
+    }
+  }
+}
